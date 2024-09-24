@@ -29,6 +29,9 @@ You can also install the required dependencies using the `requirements.txt` file
 pip install -r requirements.txt
 ```
 
+### Binary Users
+For those who want a compiled version of MouseTrack, you can check out the [releases page](https://github.com/tunmi13productions/MouseTrack/releases), which contains Nuitka-built versions of MouseTrack. They are in ZIP archives.
+
 ## License
 MouseTrack has been licensed under the MIT License.
 
